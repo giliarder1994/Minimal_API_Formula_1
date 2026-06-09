@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 API
+# Minimal API Formula 1 🏎️
 
 Uma API REST desenvolvida com **Fastify**, **TypeScript** e **Node.js** para disponibilizar informações sobre equipes e pilotos da Fórmula 1.
 
